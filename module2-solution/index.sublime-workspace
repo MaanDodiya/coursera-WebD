@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"mag",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"margn",
+				"margin-top\tproperty"
+			],
+			[
+				"a",
+				"auto\tleft"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"b",
+				"box-sizing\tproperty"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"w",
+				"w"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"syntax htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Maan Dodiya/coursera-WebD/module2-solution/index.html",
+		"/C/Users/Maan Dodiya/coursera-WebD/module2-solution/css/style.css",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture25/index.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture24/responsive-after.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture22/positioning-after.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture26/grid-before.html",
+		"/D/Coding/Coursera - HTML/Trial Codes/Resp.html",
+		"/D/Coding/Coursera - HTML/bs-try.html",
+		"/C/Users/Maan Dodiya/Desktop/Temp Codes/12-Column_Layout.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture24/responsive-before.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture23/media-queries-before.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture22/positioning-before.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture21/two-column-before.html",
+		"/D/Non_Study/Hmm/Yes! Dodi can write/Song-1.txt",
+		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Fountain of Colors/@Resources/Variables.inc",
+		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/TranslucentTaskbar/Sample.ini",
+		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Fountain of Colors/GenerateBands.ini",
+		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Fountain of Colors/Initialize/Initialize.ini",
+		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Minimalist/Date/Date.ini",
+		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Fountain of Colors/Clone/Clone.ini",
+		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Fountain of Colors/Options/Options.ini",
+		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Minimalist/Date/Date - Copy.ini",
+		"/C/Users/Maan Dodiya/Desktop/Temp Codes/input.txt",
+		"/C/Users/Maan Dodiya/Desktop/Temp Codes/output.txt",
+		"/D/Coding/Python/Dota 2/Old Laptop Codes-20200424T131458Z-001/Old Laptop Codes/Youtube Feed Extraction.py",
+		"/D/Coding/Coursera - HTML/Trial Codes/First Page/My_First_Page.html",
+		"/D/Coding/Python/Dota 2/Heroes/Counters/Axe.html",
+		"/C/Users/Maan Dodiya/AppData/Roaming/jupyter/runtime/nbserver-12780-open.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture10/images.html",
+		"/D/Coding/Coursera - HTML/Trial Codes/My_First_Page.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture05/div-and-span.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture09/same-directory.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture09/links-same-page.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture09/links-internal.html",
+		"/D/Non_Study/Adobe_Stuff/Premiere_Pro_Stuff!!/Team Bloopers/Coordinates.txt",
+		"/D/Coding/Coursera - HTML/Trial Codes/My_First_Page.txt",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture09/links-external.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture08/html-entities-after.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture08/html-entities-before.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture07/ordered-lists-before.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture07/ordered-lists-after.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture07/unordered-lists-after.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture07/unordered-lists-before.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture04/doc-structure-before.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture04/doc-structure-after.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture01/structure-only-before.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture01/structure-only-after.html",
+		"/D/Coding/Python/Battery.py",
+		"/C/Users/Maan Dodiya/Desktop/Temp Codes/Code.cpp",
+		"/C/Users/Maan Dodiya/coursera-WebD/site/index.html",
+		"/D/Non_Study/TV_Series/2.The.Walking.Dead.S02.Season.2.720p.BluRay.x264.anoXmous/11/The.Walking.Dead.S02E11.720p.BluRay.x264.anoXmous_eng.srt",
+		"/D/Non_Study/TV_Series/2.The.Walking.Dead.S02.Season.2.720p.BluRay.x264.anoXmous/11/The.Walking.Dead.S02E11.720p.BluRay.x264.anoXmous_swe.srt",
+		"/D/Study/Sem-6/CN/CN_LAB_7/CN_LAB_7/client.h",
+		"/D/Study/Sem-6/CN/CN_LAB_7/CN_LAB_7/client.c",
+		"/D/Study/Sem-6/CN/CN_LAB_7/CN_LAB_7/server.h",
+		"/C/Users/Maan Dodiya/AppData/Local/Temp/Temp1_CN_LAB_7.zip/CN_LAB_7/client.c",
+		"/C/Users/Maan Dodiya/AppData/Local/Temp/Temp1_CN_LAB_7.zip/CN_LAB_7/server.c",
+		"/C/Users/Maan Dodiya/Desktop/Temp Codes/Leetcode1.cpp",
+		"/C/Users/Maan Dodiya/AppData/Roaming/Sublime Text 3/Packages/User/C++Bitch.sublime-build",
+		"/C/Users/Maan Dodiya/Desktop/Temp Codes/Code.txt",
+		"/D/Coding/CP/25-2 Pattern.c",
+		"/D/Coding/CP/24-2 Q2.c",
+		"/D/Coding/DSA/Djikstra.cpp",
+		"/D/Softwares/Licences.txt",
+		"/D/Study/Sem-6/CN/socket.txt",
+		"/D/Non_Study/Hmm/Yes! Dodi can write/LT before ahem ahem maybe.docx",
+		"/C/Users/Maan Dodiya/AppData/Local/Temp/Temp1_psgucl2019demo.zip/How to get the Paris Saint-Germain UCL 2019 font.txt",
+		"/D/Non_Study/DC/MSOffice Pro.Plus.2019 x64 16.0.10325.20118/Fix/Downloaded from CracksNow.com.txt",
+		"/D/Non_Study/Hmm/Sitcom/Idea.txt",
+		"/D/Non_Study/Torrent/FL Studio Producer Edition 20.0.1 build 451 RC1 Signature Bundle + Crack [SadeemPC]/Crack/Crack/Instructions !!!.txt",
+		"/D/Non_Study/Torrent/FL Studio Producer Edition 20.0.1 build 451 RC1 Signature Bundle + Crack [SadeemPC]/Instructions !!!.txt",
+		"/C/Users/Maan Dodiya/AppData/Local/Temp/Temp1_Crack.zip/Crack/Instructions !!!.txt",
+		"/D/Non_Study/Songs/MC Res/Web.txt",
+		"/C/Users/Maan Dodiya/AppData/Local/Temp/Temp1_CorelDRAW Graphics Suite 2017 v19.0.0.328 HF1 Multilingual + Crack [SadeemPC].zip/CorelDRAW Graphics Suite 2017 v19.0.0.328 HF1 Multilingual + Crack [SadeemPC]/Instructions !!!.txt",
+		"/D/Non_Study/DC/Far Cry 4 (2014)/Readme.txt",
+		"/D/Non_Study/Songs/Old.txt",
+		"/D/Study/SAPM/Lit Rev.txt",
+		"/D/Softwares/Setups/Adobe Premiere Pro CC 2019 13.0.0 (x64) +  Updated Crack (FIXED) [CracksNow]/Crack/Instructions.txt",
+		"/D/Softwares/Setups/Adobe Photoshop Lightroom Classic 2019 v8.3.1 (x64)/Adobe_Lightroom_Classic_8.3.1.20190524/Repack by weibo@vposy .txt",
+		"/D/Softwares/Setups/Adobe Photoshop Lightroom Classic 2019 v8.3.1 (x64)/Read me.txt",
+		"/D/Softwares/Setups/Adobe Illustrator CC 2019 23.0.0 (x64) + Crack [CracksNow]/Instructions.txt",
+		"/C/Users/Maan Dodiya/.jupyter/jupyter_notebook_config.py",
+		"/D/Non_Study/Adobe_Stuff/Photoshop_Stuff!!/Volleyball_Wallpapers/Player_List.txt",
+		"/D/Softwares/Setups/Adobe Photoshop Lightroom Classic CC 2019 8.0.0 (x64) + Crack [CracksNow]/Instructions.txt",
+		"/D/Softwares/Setups/Adobe Photoshop Lightroom Classic CC 2019 8.0.0 (x64) + Crack [CracksNow]/Torrent Downloaded from Glodls.to.txt",
+		"/D/Non_Study/DC/Adobe Photoshop Lightroom Classic CC 2019 8.0.0 (x64) + Crack [CracksNow]/Instructions.txt",
+		"/D/Study/Lab 5 RNN_LAB/RNN.py",
+		"/D/Softwares/Laptop_Drivers/Audio_Realtek_DCH_W10_64_V6087101/13958/How_To_Install_Driver.txt",
+		"/C/Users/Maan Dodiya/AppData/Local/Temp/Temp1_PrecisionTouchpad_NumberPad_W10_64_V120027.zip/Installation Guide.txt",
+		"/C/Users/Maan Dodiya/AppData/Local/Temp/Temp1_LAN_Realtek_W10_64_V1003108282018.zip/item.txt",
+		"/C/Users/Maan Dodiya/AppData/Local/Temp/Temp1_Audio_Realtek_DCH_W10_64_V6087101.zip/13958/How_To_Install_Driver.txt",
+		"/D/Non_Study/DC/Adobe Photoshop CC 2019 v20.0.0 (x64) + Updated Crack (FIXED) [CracksNow] [Baap]/READ ME!.txt",
+		"/D/Softwares/Adobe Photoshop CC 2018 19.1.0.38906 (x64) + Crack [CracksNow]/Adobe Photoshop CC 2018 19.1.0.38906 (x64) + Crack [CracksNow]/Setup/x64/Downloaded from CracksNow.com.txt",
+		"/D/Study/3-2.c",
+		"/D/Study/spider.c",
+		"/D/Study/q1.c",
+		"/D/Study/process_tree.c",
+		"/D/Study/2-2.c",
+		"/D/Study/ToFollowList.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
