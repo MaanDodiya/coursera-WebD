@@ -4,16 +4,284 @@
 		"selected_items":
 		[
 			[
-				"margin",
-				"margin-top\tproperty"
+				"a",
+				"auto\toverflow-x"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"colo",
+				"outline-color\tproperty"
+			],
+			[
+				"fi",
+				"fill\tproperty"
 			],
 			[
 				"mari",
 				"margin-bottom\tproperty"
 			],
 			[
-				"marg",
+				"sty",
+				"font-style\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"outline",
+				"outline-offset\tproperty"
+			],
+			[
+				"out",
+				"outline-style\tproperty"
+			],
+			[
+				"ou",
+				"outline-width\tproperty"
+			],
+			[
+				"s",
+				"space-around\talign-content"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"con",
+				"justify-content\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"marign",
 				"margin-top\tproperty"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"ju",
+				"jumbotron"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"se",
+				"serif"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"bro",
+				"border-radius\tproperty"
+			],
+			[
+				"siz",
+				"font-size\tproperty"
+			],
+			[
+				"trs",
+				"transform\tproperty"
+			],
+			[
+				"t",
+				"text-decoration\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"CYC",
+				"cycling"
+			],
+			[
+				"SKETCHING",
+				"sketching"
+			],
+			[
+				"fol",
+				"float\tproperty"
+			],
+			[
+				"PAD",
+				"padding-right\tproperty"
+			],
+			[
+				"MARG",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"margn",
+				"margin-right\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"background-",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fe",
+				"flex\tproperty"
+			],
+			[
+				"TEX",
+				"text-align\tproperty"
+			],
+			[
+				"v",
+				"vertical-rl\twriting-mode"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"b",
+				"content-box\tbox-sizing"
+			],
+			[
+				"all",
+				"align-self\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"border-to",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"nv",
+				"navbar"
+			],
+			[
+				"BO",
+				"border-radius\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"padi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
 			],
 			[
 				"text-a",
@@ -32,72 +300,16 @@
 				"text-decoration\tproperty"
 			],
 			[
-				"bor",
-				"border-radius\tproperty"
-			],
-			[
-				"font",
-				"font-size\tproperty"
-			],
-			[
-				"ba",
-				"background\tproperty"
-			],
-			[
-				"fon",
-				"font-style\tproperty"
-			],
-			[
-				"li",
-				"link\tTag"
-			],
-			[
 				"bacl",
 				"background-color\tproperty"
-			],
-			[
-				"s",
-				"sans-serif\tfont-family"
-			],
-			[
-				"con",
-				"container"
 			],
 			[
 				"mag",
 				"margin-left\tproperty"
 			],
 			[
-				"mar",
-				"margin-right\tproperty"
-			],
-			[
 				"max",
 				"max-width\tproperty"
-			],
-			[
-				"f",
-				"float\tproperty"
-			],
-			[
-				"margn",
-				"margin-top\tproperty"
-			],
-			[
-				"a",
-				"auto\tleft"
-			],
-			[
-				"padd",
-				"padding-right\tproperty"
-			],
-			[
-				"box",
-				"box-sizing\tproperty"
-			],
-			[
-				"al",
-				"text-align\tproperty"
 			],
 			[
 				"wid",
@@ -112,36 +324,12 @@
 				"clear\tproperty"
 			],
 			[
-				"bac",
-				"background-color\tproperty"
-			],
-			[
-				"b",
-				"box-sizing\tproperty"
-			],
-			[
-				"c",
-				"content\tAttr"
-			],
-			[
 				"min",
 				"min-width\tproperty"
 			],
 			[
-				"t",
-				"title\tAttr"
-			],
-			[
-				"h",
-				"h2\tTag"
-			],
-			[
 				"me",
 				"meta\tTag"
-			],
-			[
-				"u",
-				"ul\tTag"
 			],
 			[
 				"w",
@@ -151,40 +339,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/D/Coding/Coursera - HTML/Trial Codes/Assignment 3/css/styles.css",
-			"settings":
-			{
-				"buffer_size": 919,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture32/after/css/styles.css",
-			"settings":
-			{
-				"buffer_size": 1464,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/Coding/Coursera - HTML/Trial Codes/Assignment 3/index.html",
-			"settings":
-			{
-				"buffer_size": 1522,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture32/after/index.html",
-			"settings":
-			{
-				"buffer_size": 2656,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/User/C++Bitch.sublime-build",
 	"build_system_choices":
@@ -252,16 +406,47 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/Coding/WebD/Second-Page-CSS",
+		"/D/Coding/WebD/Second-Page-CSS/data",
+		"/D/Coding/WebD/Second-Page-CSS/images",
+		"/D/Coding/WebD/Second-Page-CSS/images/Footer",
+		"/D/Coding/WebD/Second-Page-CSS/images/Gallery",
+		"/D/Coding/WebD/Second-Page-CSS/images/Gallery/Group 5"
+	],
 	"file_history":
 	[
-		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture31/after/css/styles.css",
-		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture32/after/css/styles.css",
+		"/C/Users/Maan Dodiya/Desktop/Temp Codes/output.txt",
+		"/C/Users/Maan Dodiya/Desktop/Temp Codes/input.txt",
+		"/C/Users/Maan Dodiya/Desktop/Temp Codes/Code.cpp",
+		"/D/Coding/WebD/Second-Page-CSS/css/styles.css",
+		"/D/Coding/WebD/Second-Page-CSS/index.html",
+		"/D/Non_Study/Hmm/Yes! Dodi can write/Song-1.txt",
+		"/D/Coding/WebD/Second-Page-CSS/data/Hobbies.txt",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture36/after/css/styles.css",
+		"/D/Coding/WebD/Second-Page-CSS/images/Website/Volleyball @ Spree '19 [DoPy] (66)_M.jpg",
+		"/D/Coding/WebD/Second-Page-CSS/data/Overview.txt",
+		"/D/Coding/WebD/First Page/My_First_Page.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture39/before/css/styles.css",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture31/before/css/styles.css",
+		"/D/Coding/WebD/Second-Page-CSS/css/bootstrap.min.css",
+		"/D/Coding/WebD/Second-Page-CSS/css/bootstrap-grid.min.css",
+		"/D/Coding/WebD/Second-Page-CSS/data/Gallery.txt",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture36/after/index.html",
 		"/D/Coding/Coursera - HTML/Trial Codes/Assignment 3/css/styles.css",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture39/after/index.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture39/after/css/styles.css",
+		"/D/Coding/Coursera - HTML/Trial Codes/Assignment 3/index.html",
+		"/C/Users/Maan Dodiya/coursera-webd-module2-solution/index.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture34/after/index.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture34/after/css/styles.css",
 		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture32/after/index.html",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture32/after/css/styles.css",
+		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture31/after/css/styles.css",
 		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture31/after/index.html",
 		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture30/after/index.html",
 		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture30/after/css/styles.css",
-		"/D/Non_Study/Hmm/Yes! Dodi can write/Song-1.txt",
 		"/C/Users/Maan Dodiya/coursera-WebD/module2-solution/css/style.css",
 		"/D/Non_Study/Songs/MC Res/Web.txt",
 		"/C/Users/Maan Dodiya/coursera-WebD/module2-solution/index.html",
@@ -284,8 +469,6 @@
 		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Fountain of Colors/Clone/Clone.ini",
 		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Fountain of Colors/Options/Options.ini",
 		"/C/Users/Maan Dodiya/Documents/Rainmeter/Skins/Minimalist/Date/Date - Copy.ini",
-		"/C/Users/Maan Dodiya/Desktop/Temp Codes/input.txt",
-		"/C/Users/Maan Dodiya/Desktop/Temp Codes/output.txt",
 		"/D/Coding/Python/Dota 2/Old Laptop Codes-20200424T131458Z-001/Old Laptop Codes/Youtube Feed Extraction.py",
 		"/D/Coding/Coursera - HTML/Trial Codes/First Page/My_First_Page.html",
 		"/D/Coding/Python/Dota 2/Heroes/Counters/Axe.html",
@@ -310,7 +493,6 @@
 		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture01/structure-only-before.html",
 		"/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture01/structure-only-after.html",
 		"/D/Coding/Python/Battery.py",
-		"/C/Users/Maan Dodiya/Desktop/Temp Codes/Code.cpp",
 		"/C/Users/Maan Dodiya/coursera-WebD/site/index.html",
 		"/D/Non_Study/TV_Series/2.The.Walking.Dead.S02.Season.2.720p.BluRay.x264.anoXmous/11/The.Walking.Dead.S02E11.720p.BluRay.x264.anoXmous_eng.srt",
 		"/D/Non_Study/TV_Series/2.The.Walking.Dead.S02.Season.2.720p.BluRay.x264.anoXmous/11/The.Walking.Dead.S02E11.720p.BluRay.x264.anoXmous_swe.srt",
@@ -363,7 +545,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -377,6 +559,35 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"steps",
+			"495vh",
+			"width",
+			"src",
+			"=\"\">",
+			"connect",
+			"gmail",
+			"=\"#\">@",
+			"boxmain",
+			"box",
+			"container",
+			"fluid",
+			"container",
+			"fluid",
+			";\n",
+			"right",
+			">\n",
+			"in",
+			"Jhaatu",
+			"Dactar",
+			"Daddy",
+			"center",
+			"LIFE",
+			"40px",
+			"early",
+			"Back",
+			"li",
+			"Undergrad",
+			"doctype",
 			"557c3e",
 			";\n",
 			"* {\n\tbox-sizing: border-box;\n}\n\nh1 {\n\tfont-family: \"Trebuchet MS\" , Helvetica , sans-serif;\n\tfont-size: 1.75em;\n\ttext-align: center;\n\tmargin-top: 20px;\n\tmargin-bottom: 20px;\n}\n\ndiv {\n\tfont-family: \"Trebuchet MS\" , Helvetica , sans-serif;\n}\n\np {\n\tfont-family: \"Trebuchet MS\" , Helvetica , sans-serif;\n\tpadding-left: 10px;\n\tpadding-right: 10px;\n\tpadding-top: 15px;\n}\n\n.box-title {\n\tfont-size: 1.25em;\n\tfont-weight: bold;\n\ttext-align: center;\n\twidth: 120px;\n\tborder-left: 1px solid black;\n\tborder-bottom: 1px solid black;\n\tposition: absolute;\n\tright: 0px;\n}\n\n.b1 {\n\tbackground-color: #FFACFC\n}\n\n.b2 {\n\tbackground-color: #F148FB\n}\n\n.b3 {\n\tbackground-color: #7122FA\n}\n\n.container {\n\tposition: relative;\n\tmargin-bottom: 10px;\n\tmargin-top: 10px;\n\tborder: 1px solid black;\n\tbackground-color: #94CAF0\n}\n\n@media (min-width: 992px) {\n\t.col-lg-4 {\n\t\tposition: relative;\n\t\twidth: 33.33%;\n\t\tfloat: left;\n\t}\n\n\t.col-lg-4 > .container {\n\t\twidth: 90%;\n\t\tmargin-right: auto;\n\t\tmargin-left: auto;\n\t}\n\n}\n\n@media (min-width: 768px) and (max-width: 991px) {\n\t.col-md-6 {\n\t\tposition: relative;\n\t\twidth: 50%;\n\t\tfloat: left;\n\t}\n\n\t.col-md-12 {\n\t\tposition: relative;\n\t\twidth: 100%;\n\t\tfloat: left;\n\t}\n\n\t.col-md-6 > .container {\n\t\twidth: 90%;\n\t\tmargin-right: auto;\n\t\tmargin-left: auto;\n\t}\n\n\t.col-md-12 > .container {\n\t\twidth: 95%;\n\t\tmargin-right: auto;\n\t\tmargin-left: auto;\n\t}\n}\n\n@media (max-width: 767px) {\n\t.col-sm-12 {\n\t\tposition: relative;\n\t\twidth: 100%;\n\t\tfloat: left;\n\t}\n\t.container {\n\t\twidth: 90%;\n\t\tmargin-right: auto;\n\t\tmargin-left: auto;\n\t}\n}",
@@ -402,132 +613,17 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"folders":
+	[
+		{
+			"path": "D:\\Coding\\WebD\\Second-Page-CSS"
+		}
+	],
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/D/Coding/Coursera - HTML/Trial Codes/Assignment 3/css/styles.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 919,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								673,
-								673
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 386.4,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture32/after/css/styles.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1464,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1367,
-								1341
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 774.4,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/D/Coding/Coursera - HTML/Trial Codes/Assignment 3/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1522,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1153,
-								1153
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 152.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/D/Coding/Coursera - HTML/fullstack-course4/examples/Lecture32/after/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2656,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2508,
-								2639
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 352.8,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -611,8 +707,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 150.0,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
